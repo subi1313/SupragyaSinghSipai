@@ -1,17 +1,20 @@
-# supragya_singh_sipai
+# Supragya Singh Sipai My Profile App
 
-A simple Flutter profile application that displays a profile photo and name, featuring custom app icon and app name for Android and iOS.
+A simple Flutter profile application that displays a profile photo and name, featuring a custom app icon and app name for Android and iOS.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Custom app name** for Android and iOS
+- **Custom app icon** using a profile photo
+- **Profile home screen** with name and image
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Home Screen
+![Home Screen](assets/screenshots/homescreen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Author
+
+**Supragya Singh Sipai**
