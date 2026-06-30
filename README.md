@@ -52,6 +52,7 @@ flutter run --flavor prod
 
 ### Assignment 2 - Home Screen
 ![Home Screen](assets/screenshots/homescreen1.png)
+
 ---
 
 ## Author
